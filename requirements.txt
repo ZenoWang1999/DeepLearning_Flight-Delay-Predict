@@ -3,3 +3,6 @@ pandas
 category_encoders
 sklearn
 pmdarima
+matplotlib
+tensorflow
+seaborn
